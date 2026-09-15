@@ -359,16 +359,6 @@ That's the engineering problem I enjoy solving.
 
 ---
 
-## Contributions
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Faizyk113&hide_border=true&area=true" />
-
-</div>
-
----
-
 ## A little outside engineering
 
 I spend most of my time either building something, learning something, or trying to understand why something I built stopped working.
