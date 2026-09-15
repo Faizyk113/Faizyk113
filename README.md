@@ -341,19 +341,17 @@ That's the engineering problem I enjoy solving.
 
 ## GitHub Activity
 
+## GitHub Activity
+
 <div align="center">
 
-<a href="https://github.com/Faizyk113">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Faizyk113&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizyk113&layout=compact&hide_border=true&langs_count=8" />
-
-</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Faizyk113&theme=github_dark" />
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Faizyk113&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Faizyk113&theme=github_dark" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Faizyk113&theme=github_dark" />
 
 </div>
 
