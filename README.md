@@ -343,17 +343,17 @@ That's the engineering problem I enjoy solving.
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/Faizyk113">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Faizyk113&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&langs_count=8" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizyk113&layout=compact&hide_border=true&langs_count=8" />
 
 </a>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Faizyk113&hide_border=true" />
 
 </div>
 
@@ -363,7 +363,7 @@ That's the engineering problem I enjoy solving.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Faizyk113&hide_border=true&area=true" />
 
 </div>
 
@@ -389,19 +389,19 @@ The last one is probably a build dependency.
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<a href="https://www.linkedin.com/in/tanveer-ahmad-khan-31205a190">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 
  
 
-<a href="mailto:YOUR_EMAIL@example.com">
+<a href="mailto:faizykhanfzk@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" />
 </a>
 
  
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/Faizyk113">
 <img src="https://img.shields.io/badge/GitHub-Projects-181717?style=flat-square&logo=github&logoColor=white" />
 </a>
 
