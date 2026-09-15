@@ -10,8 +10,8 @@
 
 <br>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&style=flat" />
+<a href="https://github.com/Faizyk113">
+<img src="https://komarev.com/ghpvc/?username=Faizyk113&label=Profile%20Views&style=flat" />
 </a>
 
 </div>
