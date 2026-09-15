@@ -2,6 +2,8 @@
 
 # Hey, I build things that think.
 
+#if it shouldn't be built, i've definitely tried
+
 ### Software Engineer · Machine Learning · Backend · Cloud
 
 <br>
